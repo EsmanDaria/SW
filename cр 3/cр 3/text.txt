@@ -1,0 +1,15 @@
+1 10 TRPO 10
+2 8.5 TRPO 7
+3 6 TRPO 8
+4 9 TRPO 10
+
+4 9 TRPO 10
+3 6 TRPO 8
+2 8.5 TRPO 7
+1 10 TRPO 10
+
+1 10 TRPO 10
+4 9 TRPO 10
+2 8.5 TRPO 7
+3 6 TRPO 8
+The array is sorted in descending order(avMark).
